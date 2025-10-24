@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Desktop/iot Practice"
+		},
+		{
+			"name": "WEEK 6 DHT",
+			"path": "../WEEK 6 DHT"
+		},
+		{
+			"name": "week 6 LDR",
+			"path": "../week 6 LDR"
+		},
+		{
+			"name": "week 6 combine code",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
