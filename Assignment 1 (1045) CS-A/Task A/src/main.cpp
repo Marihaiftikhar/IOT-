@@ -34,6 +34,10 @@ const unsigned long pwmPeriod = 10; // ms per PWM cycle (~100 Hz)
 // Blink state variables
 int blinkState = 0;
 
+void showMode(const char *text);
+void resetToMode0();
+
+
 void setup() {
   pinMode(LED1, OUTPUT);
   pinMode(LED2, OUTPUT);
